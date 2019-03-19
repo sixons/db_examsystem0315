@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/GetRandomSubject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/LikeQuerySubjectAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/LoginAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/SubjectAddAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/SubjectParticularAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/SubjectUpdateAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/SubjectUpdateBefore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/SubmitExamAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/StudentDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/StudentDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/hibernate" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/po" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/service/StudentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util" charset="GBK" />
+  </component>
+</project>
